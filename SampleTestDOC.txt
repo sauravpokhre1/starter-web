@@ -1,1 +1,3 @@
 Text edited from my windows pc in NEW YEAR
+
+This is for the auto merge training in DEVOPS. 
