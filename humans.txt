@@ -3,7 +3,7 @@
 # this is not what i was trying to do
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Green Jungle <role> pirate king <twitter>
 
 # THANKS
 
