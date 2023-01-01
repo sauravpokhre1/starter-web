@@ -11,3 +11,6 @@ Text for git comparision
 
 ## this is the new git content for comparesion
 comparision with repo
+
+## auto merge
+Testing merge
