@@ -3,7 +3,9 @@
 # this is not what i was trying to do
 # TEAM
 
-    <name> Green Jungle <role> pirate king <twitter>
+    green goblin
+    green123@gmail.com  
+    amazon, devops engineer
 
 # THANKS
 
