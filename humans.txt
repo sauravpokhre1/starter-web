@@ -5,13 +5,13 @@
 
     green goblin
     green123@gmail.com  
-    amazon, devops engineer
+    devops engineer
 
 # THANKS
 
-    <name>
+    green Goblin
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr, AJAX, Docker, javascript
