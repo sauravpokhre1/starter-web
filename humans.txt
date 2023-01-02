@@ -15,3 +15,7 @@
 
     HTML5, CSS3, AI, AWS, Crowdstrike 
     jQuery, Modernizr, AJAX
+
+#introduction
+    
+    this is the into of the user who is responsible for managing the team    
