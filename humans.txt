@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# this is not what i was trying to do
-# TEAM manager
+# Then what was it
+# TEAM
 
     green goblin
     green123@gmail.com  
