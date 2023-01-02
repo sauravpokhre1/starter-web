@@ -5,3 +5,5 @@ This is for the auto merge training in DEVOPS.
 We are trying to learn git stashing
 
 we are trying to learn the stash message
+
+learning how Tagging works
